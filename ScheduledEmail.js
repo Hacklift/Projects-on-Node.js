@@ -29,9 +29,7 @@ cron.schedule( '0 15 12 * * *', () => { //schedule the exact time you want the e
     }
   });
 })
-//}
 
-//mailer()
 
 
 
